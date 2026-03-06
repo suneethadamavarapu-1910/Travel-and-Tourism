@@ -1,4 +1,4 @@
-## Travel and Torism
+## Travel and Tourism
 ## Description
  A modern Travel and Tourism website designed to help users explore destinations, plan trips, and discover travel experiences with an elegant interface.
  This project showcases a responsive front-end travel platform with destination browsing, budget filtering, search functionality, and interactive UI elements. 
